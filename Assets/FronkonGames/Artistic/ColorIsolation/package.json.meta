@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 76b24d5179b831144989aba208ab48dd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 266086
+  packageName: 'Artistic: Color Isolation'
+  packageVersion: 2.1.2
+  assetPath: Assets/FronkonGames/Artistic/ColorIsolation/package.json
+  uploadId: 783950
